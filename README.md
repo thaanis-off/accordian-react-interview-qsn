@@ -1,3 +1,4 @@
+!["accordion"](./src/assets/accordion.gif)
 # React Accordion Component
 A simple, reusable Accordion component built with React. This component displays a list of expandable/collapsible items with smooth toggle functionality and icon indicators.
 
